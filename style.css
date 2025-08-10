@@ -1,0 +1,35 @@
+.container{
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.2fr 1.5fr 1.2fr 1.3fr;
+
+}
+
+nav{
+    background-color: darkgreen;
+}
+
+main{
+    background-color: blue;
+}
+
+#sidebar{
+    background-color: darkred;
+}
+
+#content{
+    background-color: chartreuse;
+}
+
+#paragraph{
+    background-color: brown;
+}
+
+#templete{
+    background-color: rgb(55, 17, 160);
+}
+
+footer{
+    background-color: gold;
+}
